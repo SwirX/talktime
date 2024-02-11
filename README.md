@@ -27,16 +27,14 @@ An OpenSource social Media Side Project
 ## Changelog
 
 * 0.0.1a:
-
-initial commit
+- initial commit
 
 * 0.1.0a:
-
-Added Google Login
-Added Apple Login
-Added Email & Password Login
-Made a simple Login Page
-Added a homeScreen
-Started Using app routes
-Built two custom classes for User and ChatMessage
-added some custom widgets for convenience
+- Added Google Login
+- Added Apple Login
+- Added Email & Password Login
+- Made a simple Login Page
+- Added a homeScreen
+- Started Using app routes
+- Built two custom classes for User and ChatMessage
+- added some custom widgets for convenience
