@@ -1,6 +1,8 @@
+<p align="center">
 <a href="https://youtube.com/swirx"><img title="Untested" src="https://img.shields.io/badge/Status-Untested-orange?style=plastic"></a>
 <a href="https://youtube.com/swirx"><img title="alpha" src="https://img.shields.io/badge/Version-0.1.0a-green?style=plastic"></a>
 <a href="https://youtube.com/swirx"><img title="Maintainence" src="https://img.shields.io/badge/-Maintained-green?style=plastic"></a>
+</p>
 
 # talktime
 
