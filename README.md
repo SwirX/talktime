@@ -27,8 +27,11 @@ An OpenSource social Media Side Project
 ## Changelog
 
 * 0.0.1a:
+
 initial commit
+
 * 0.1.0a:
+
 Added Google Login
 Added Apple Login
 Added Email & Password Login
